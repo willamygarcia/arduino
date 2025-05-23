@@ -29,3 +29,5 @@ Antes de iniciar, é recomendável que você tenha instalado:
 ├── 📁 docs/                  # Documentação, datasheets e tutoriais complementares
 ├── 📁 imagens/               # Diagramas de montagem e fotos dos projetos
 └── README.md                # Descrição geral do repositório
+
+<pre> ```plaintext 📦 microcontroladores-arduino/ ├── 📁 exemplos/ │ ├── blink/ # Exemplo básico de piscar um LED │ ├── sensores/ # Exemplos com sensores (temperatura, luminosidade, etc.) │ ├── atuadores/ # Controle de motores, servos, relés e LEDs │ └── comunicacao/ # Comunicação serial, I2C, SPI, entre outros ├── 📁 projetos/ │ ├── estacao_meteorologica/ # Projeto de estação meteorológica com sensores ambientais │ ├── alarme_residencial/ # Sistema de alarme com sensores de presença │ └── controle_acesso/ # Controle de acesso com RFID ou senha ├── 📁 docs/ # Documentações complementares e datasheets ├── 📁 imagens/ # Diagramas de circuito e fotos dos projetos └── README.md # Arquivo de descrição do repositório ``` </pre>
