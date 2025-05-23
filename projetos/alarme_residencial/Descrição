@@ -1,0 +1,12 @@
+🔒 Sistema de Alarme com Sensor de Movimento (PIR) e Buzzer
+Descrição: Um sensor PIR detecta movimento e aciona um buzzer caso seja identificado alguém no ambiente. O sistema pode ser ativado ou desativado por botão.
+
+Componentes:
+Componente	Quantidade
+Arduino UNO	1
+Sensor PIR	1
+Buzzer	1
+Botão	1
+Resistores (10k)	1
+Jumpers e Protoboard	1
+
