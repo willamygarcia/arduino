@@ -1,0 +1,12 @@
+🔐 Sistema de Controle de Acesso com Leitor RFID (MFRC522)
+Descrição: O sistema lê cartões RFID e verifica se estão autorizados. Se autorizado, acende um LED verde; se não, um LED vermelho e um aviso sonoro.
+
+Componentes:
+Componente	Quantidade
+Arduino UNO	1
+Leitor RFID RC522	1
+Cartão/chaveiro RFID	1+
+LED vermelho	1
+LED verde	1
+Buzzer	1
+Resistores (220Ω)	2
