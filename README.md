@@ -15,7 +15,7 @@ Antes de iniciar, é recomendável que você tenha instalado:
 - Uma placa Arduino (UNO, Mega, Nano, etc.)
 - Componentes básicos (LEDs, resistores, sensores, jumpers, protoboard, etc.)
 
-## 📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório 
 
 ├── 📁 exemplos/
 │   ├── blink/                # Exemplo básico de piscar LED
