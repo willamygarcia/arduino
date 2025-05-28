@@ -1,4 +1,4 @@
-# Lista de Atuadores e Características (Total: 30)
+# Lista de Atuadores e Características
 
 ## 1. LED
 - **Tipo:** Digital
